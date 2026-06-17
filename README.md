@@ -1,6 +1,6 @@
 # I'm Amlaan Jyoti Das 
 
-🎓 B.Tech CSE Student at NIT Silchar
+ B.Tech CSE Student at NIT Silchar
 
 ## About Me
 - Learning C++
@@ -25,5 +25,16 @@
 ## Learning Journey
 I use GitHub to document my progress in programming, data science, and machine learning. Every repository represents concepts, projects, and experiments I am working on while developing my skills.
 
+
+## Primary Resource
+
+- Hands-On Machine Learning with Scikit Learn, Keras & TensorFlow
+
+## Disclaimer
+
+This repository contains my own implementations, notes, and experiments inspired by the book. It does not reproduce the book's content.
+
 ---
-⭐ Always learning something new.
+
+Always learning something new.
+
